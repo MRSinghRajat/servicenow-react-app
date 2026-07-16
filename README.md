@@ -1,5 +1,5 @@
 # ServiceNow React App Boilerplate
-
+// Fraud alert threshold updated for demo
 This is a boilerplate for a ServiceNow React app. It is a minimalistic app to get you started with building advanced UI/UX interfaces in React that can be hosted in ServiceNow.
 
 ![ServiceNow React App Screenshot](./img/1.png)
